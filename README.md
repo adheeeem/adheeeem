@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [adheeeem](https://t.me/adheeeem) (telegram), azimjon.fayzulloev99@gmail.com (Email)
 - ⚡ Fun fact: I love cats 
 
+
+### Coding stats from last 7 days
 <!--START_SECTION:waka-->
 
 ```text
