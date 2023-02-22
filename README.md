@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang and Python deeper
 - 👯 I’m looking to collaborate on real world projects
 - 📫 How to reach me: [adheeeem](https://t.me/adheeeem) (telegram), azimjon.fayzulloev99@gmail.com (Email)
 - ⚡ Fun fact: I love cats 
