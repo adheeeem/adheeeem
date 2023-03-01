@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go               8 hrs 42 mins   █████████████░░░░░░░░░░░░   51.71 %
-Python           4 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   27.70 %
-JavaScript       2 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-CSS              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-GitIgnore file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Text             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Go               6 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.19 %
+Python           5 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.45 %
+JavaScript       2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+HTML             48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+CSS              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
