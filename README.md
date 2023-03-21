@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go       7 hrs 49 mins   ████████████████▒░░░░░░░░   64.71 %
-Python   3 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   27.93 %
-YAML     42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Docker   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Go       5 hrs 32 mins   ███████████████▒░░░░░░░░░   60.91 %
+Python   3 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.37 %
+YAML     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+JSON     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
