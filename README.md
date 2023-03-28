@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go       2 hrs 28 mins   ████████████████░░░░░░░░░   64.11 %
-Python   1 hr 17 mins    ████████▒░░░░░░░░░░░░░░░░   33.57 %
-JSON     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Go       3 hrs 13 mins   ████████████████▓░░░░░░░░   66.87 %
+Python   1 hr 17 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+HTML     18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
