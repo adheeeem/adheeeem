@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 ### Coding stats from last 7 days
 <!--START_SECTION:waka-->
 
-```text
-Go       3 hrs 13 mins   ████████████████▓░░░░░░░░   66.87 %
-Python   1 hr 17 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
-HTML     18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+```txt
+C#       18 hrs 1 min    ██████████████████▒░░░░░░   72.71 %
+Binary   5 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+Other    1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+XML      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JSON     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
