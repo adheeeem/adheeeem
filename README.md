@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning C# and ASP.NET Core deeper
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [adheeeem](https://t.me/adheeeem) (telegram), azimjon.fayzulloev99@gmail.com (Email)
+- 📫 How to reach me: [@adheeeem](https://t.me/adheeeem) (telegram), azimjon.fayzulloev99@gmail.com (Email)
 - ⚡ Fun fact: I love cats :cat:
 
 
