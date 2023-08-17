@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C# and ASP.NET Core deeper
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [adheeeem](https://t.me/adheeeem) (telegram), azimjon.fayzulloev99@gmail.com (Email)
-- ⚡ Fun fact: I love cats 
+- ⚡ Fun fact: I love cats :cat:
 
 
 ### Coding stats from last 7 days
@@ -24,3 +24,6 @@ JSON       1 hr 15 mins    █▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+Here are some stats :wink:
+![Adheeeem's github stats](https://github-readme-stats.vercel.app/api?username=adheeeem&show_icons=true&theme=radical)
