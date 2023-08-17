@@ -25,5 +25,5 @@ JSON       1 hr 15 mins    █▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-Here are some stats :wink:
+### Here are some stats :wink:
 ![Adheeeem's github stats](https://github-readme-stats.vercel.app/api?username=adheeeem&show_icons=true&theme=radical)
