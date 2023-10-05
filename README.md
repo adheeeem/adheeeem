@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3   7 hrs 35 mins   ███████████████▒░░░░░░░░░   61.23 %
-C#          2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-Razor       1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-Assembly    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Binary      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+GDScript3     7 hrs 35 mins   ███████████▒░░░░░░░░░░░░░   45.23 %
+Razor         5 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   31.30 %
+C#            2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+C++           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Assembly      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
