@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Razor            9 hrs 21 mins   █████████████▒░░░░░░░░░░░   53.79 %
-Python           3 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
-C#               2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Binary           56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Assembly         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Razor            6 hrs 12 mins   ███████████▒░░░░░░░░░░░░░   45.24 %
+Python           3 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+C#               3 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+Binary           59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+CSS              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
